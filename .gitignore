@@ -1,0 +1,10 @@
+# Ignorar diretórios de dependências  
+node_modules/  
+venv/  
+.DS_Store  
+
+# Ignorar arquivos de log  
+*.log  
+
+# Ignorar arquivos de configuração do sistema  
+*.swp
